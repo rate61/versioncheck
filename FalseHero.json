@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.30",
-  "latestVersionCode": 30,
+  "latestVersion": "1.0",
+  "latestVersionCode": 900,
   "url": "https://github.com/javiersantos/AppUpdater/releases",
   "releaseNotes": [
     "- First evolution",
