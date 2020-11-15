@@ -1,10 +1,11 @@
 {
-  "latestVersion": "0.6.0",
-  "latestVersionCode": 600,
+  "latestVersion": "0.6.1",
+  "latestVersionCode": 601,
   "url": "https://adultoyunceviri.com/konular/being-a-dik-turkce-0-6.14/",
   "releaseNotes": [
-    "- Berat Albarak istifa etti",
-    "- Boş koltuğun daha iyi görev yaptığı anlaşıldı",
-    "- Karabağ artık resmen Azerbaycan'ın !"
+    "- Hile Modu eklendi. (Hep olmalıymış zaten)",
+    "- Bazı ilerleme sorunları giderildi.",
+    "- Çeviri hataları düzenlendi."
+    "Oyundaki tüm hataları Discord sunucumuzdan iletebilirsiniz."
   ]
 }
