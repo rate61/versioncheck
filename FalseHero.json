@@ -1,10 +1,10 @@
 {
-  "latestVersion": "5",
-  "latestVersionCode": 30,
-  "url": "https://adultoyunceviri.com/konular/false-hero-turkce-0-30.156/",
+  "latestVersion": "0.6.0",
+  "latestVersionCode": 601,
+  "url": "https://adultoyunceviri.com/konular/being-a-dik-turkce-0-6.14/",
   "releaseNotes": [
-    "- Berat Albarak istifa etti",
-    "- Boş koltuğun daha iyi görev yaptığı anlaşıldı",
-    "- Karabağ artık resmen Azerbaycan'ın !"
+    "- Hile Modu eklendi. (Hep olmalıymış zaten)",
+    "- Bazı ilerleme sorunları giderildi.",
+    "- Çeviri hataları düzenlendi."
   ]
 }
