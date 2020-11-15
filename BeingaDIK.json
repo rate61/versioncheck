@@ -1,11 +1,10 @@
 {
-  "latestVersion": "0.6.1",
+  "latestVersion": "0.6.0",
   "latestVersionCode": 601,
   "url": "https://adultoyunceviri.com/konular/being-a-dik-turkce-0-6.14/",
   "releaseNotes": [
     "- Hile Modu eklendi. (Hep olmalıymış zaten)",
     "- Bazı ilerleme sorunları giderildi.",
     "- Çeviri hataları düzenlendi."
-    "Oyundaki tüm hataları Discord sunucumuzdan iletebilirsiniz."
   ]
 }
