@@ -1,10 +1,10 @@
 {
   "latestVersion": "0.30",
   "latestVersionCode": 030,
-  "url": "adultoyunceviri.com/konular/false-hero-turkce-0-30.156/",
+  "url": "https:/adultoyunceviri.com/konular/false-hero-turkce-0-30.156/",
   "releaseNotes": [
-    "- İlk Sürüm",
-    "- Hatalar Giderildi",
-    "- Matt Test"
+    "- İngilizce Rooster düzeltildi.",
+    "- Eksik Swyper Düzeltildi (Catrin Eklendi).",
+    "- Bilinen bir sorun kalmadı. Hala var ise iletebilirsiniz."
   ]
 }
