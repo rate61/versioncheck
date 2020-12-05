@@ -1,10 +1,9 @@
 {
-  "latestVersion": "0.03.1",
-  "latestVersionCode": 301,
+  "latestVersion": "0.04",
+  "latestVersionCode": 4,
   "url": "adultoyunceviri.com/konular/sunshine-love-turkce-0-3.23/",
   "releaseNotes": [
-    "- İngilizce Rooster düzeltildi.",
-    "- Eskik Swyper Düzeltildi (Catrin Eklendi).",
-    "- Bilinen bir sorun kalmadı. Hala var ise iletebilirsiniz."
+    "- 0.04i sürümüne güncellendi.",
+    "- Çeviri henüz beta aşamasındadır."
   ]
 }
