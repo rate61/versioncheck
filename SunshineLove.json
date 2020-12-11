@@ -1,9 +1,9 @@
 {
-  "latestVersion": "0.04",
+  "latestVersion": "0.04.1",
   "latestVersionCode": 4,
   "url": "adultoyunceviri.com/konular/sunshine-love-turkce-0-3.23/",
   "releaseNotes": [
-    "- 0.04i sürümüne güncellendi.",
-    "- Çeviri henüz beta aşamasındadır."
+    "- Tüm çeviri hataları giderildi.",
+    "- PC kullanıcısı iseniz, uyarıya hayır diyerek atlayabilirsiniz."
   ]
 }
