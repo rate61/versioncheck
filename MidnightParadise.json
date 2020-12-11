@@ -1,9 +1,9 @@
 {
-  "latestVersion": "0.13",
+  "latestVersion": "0.13.1",
   "latestVersionCode": 12,
   "url": "https://adultoyunceviri.com/konular/midnight-paradise-turkce-0-12.4/",
   "releaseNotes": [
-    "- 0.13 sürümüne güncellendi.",
-    "- Çeviri henüz beta aşamasındadır."
+    "- Tüm çeviri hataları giderildi.",
+    "- PC kullanıcısı iseniz, bu uyarıyı hayır diyerek atlayabilirsiniz."
   ]
 }
