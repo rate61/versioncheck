@@ -2,7 +2,8 @@
   "latestVersion": "0.06.5",
   "url": "https://adultoyunceviri.com/konular/the-deluca-family-turkce-0-6-5.17/",
   "releaseNotes": [
-    "- İngilizce Rooster düzeltildi.",
-    "- Bilinen bir sorun kalmadı. Hala var ise iletebilirsiniz."
+    "- Hile Modu eklendi. (Hep olmalıymış zaten)",
+    "- Bazı ilerleme sorunları giderildi.",
+    "- Çeviri hataları düzenlendi."
   ]
 }
