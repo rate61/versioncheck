@@ -1,10 +1,9 @@
 {
-  "latestVersion": "0.20.7",
-  "latestVersionCode": 207,
-  "url": "https://adultoyunceviri.com/konular/being-a-dik-turkce-0-6.14/",
+  "latestVersion": "0.20.9",
+  "url": "https://adultoyunceviri.com/konular/summertime-saga-turkce-0-20-9.3/",
   "releaseNotes": [
-    "- Hile Modu eklendi. (Hep olmalıymış zaten)",
-    "- Bazı ilerleme sorunları giderildi.",
-    "- Çeviri hataları düzenlendi."
+    "- Oyun 0.20.9 sürümüne güncellendi.",
+    "- Oyun şu an beta aşamasındadır.",
+    "- Oyuna geniş bir mod paketi eklenmiştir."
   ]
 }
