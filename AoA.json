@@ -1,8 +1,8 @@
 {
-  "latestVersion": "3.0",
+  "latestVersion": "3.0.1",
   "url": "https://adultoyunceviri.com/konular/a-o-a-academy-turkce-2-1.515/",
   "releaseNotes": [
-    "- Oyun v3 Gold sürümüne güncellendi.",
-    "- Oyun şu an Beta aşamasındadır."
+    "- Oyundaki boş diyalog sorunu düzeltildi.",
+    "- Güncelleme tamamen opsiyoneldir. PC sürümünde Hayır'a basarak. Android'de geç tuşuna basarak bu uyarıyı atlayabilirsiniz."
   ]
 }
