@@ -4,10 +4,9 @@
   "releaseNotes": [
     "- Oyun v0.8.1 sürümüne güncellendi.",
     "- Jill'in rotasını etkileyen bir sorun nedeniyle mod güncellemesi uygulandı.",
-    "- Galeride hileye rağmen açılmayan sahneler eklendi.",
+    "- Galeride hileye rağmen açılmayan sahneler artık açılıyor.",
     "- Çeviri hataları ve ufak tefek sorunlar giderildi.",
-    "- 2 Bölümden oluşan android sürümünü indirenler bu uyarıyı es geçebilirler.",
-    "- PC kullanıcı etkileyen ve bilgisayardaki kullanıcı adlarından dolayı yaşadıkları kayıt alamama sorunu düzeltildi.",
+    "- PC kullanıcılarını etkileyen kayıt alamama sorunu düzeltildi. (Windows'taki Türkçe kullanıcı adlarından kaynaklanıyordu)",
     "- Güncelleme opsiyoneldir. Bu uyarıyı PC kullanıcıları 'Hayır' diyerek, Android kullanıcıları ise 'Geç' diyerek kapatabilir."
   ]
 }
