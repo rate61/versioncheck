@@ -1,12 +1,10 @@
 {
-  "latestVersion": "0.8.1",
+  "latestVersion": "0.8.2",
   "url": "https://adultoyunceviri.com/konular/being-a-dik-turkce-0-8-0-pc-apk.14/",
   "releaseNotes": [
-    "- Oyun v0.8.1 sürümüne güncellendi.",
-    "- Jill'in rotasını etkileyen bir sorun nedeniyle mod güncellemesi uygulandı.",
-    "- Galeride hileye rağmen açılmayan sahneler artık açılıyor.",
-    "- Çeviri hataları ve ufak tefek sorunlar giderildi.",
-    "- PC kullanıcılarını etkileyen kayıt alamama sorunu düzeltildi. (Sorun Windows'taki Türkçe kullanıcı adlarından kaynaklanıyordu)",
+    "- Oyun v0.8.2 sürümüne güncellendi.",
+    "- Yapımcı tarafından atılan hata düzeltmeleri uygulandı.",
+    "- Bazılarınızda galeride hileye rağmen açılmayan Bella sahnesi artık açılıyor.",
     "- Güncelleme opsiyoneldir. Bu uyarıyı PC kullanıcıları 'Hayır' diyerek, Android kullanıcıları ise 'Geç' diyerek kapatabilir."
   ]
 }
